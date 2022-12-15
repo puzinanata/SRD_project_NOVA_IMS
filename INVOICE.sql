@@ -1,5 +1,5 @@
 USE getpresent;
-
+# check github
 #Creation of intermediate views for generation invoices
 DROP VIEW IF EXISTS sinvoicefin;
 Create view sinvoicefin as
